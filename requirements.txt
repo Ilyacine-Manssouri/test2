@@ -1,8 +1,7 @@
+streamlit
 openpyxl
 pandas
-pathlib
-os
-matplotlib.pyplot
 numpy
-subprocess
-json
+matplotlib
+pathlib
+plotly
