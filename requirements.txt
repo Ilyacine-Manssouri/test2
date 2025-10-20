@@ -1,1 +1,8 @@
 openpyxl
+pandas
+pathlib
+os
+matplotlib
+numpy
+subprocess
+json
