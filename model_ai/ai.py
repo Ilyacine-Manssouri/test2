@@ -1,4 +1,10 @@
+import sys
+
+print("Python executable:", sys.executable)
 import pandas as pd
+
+print("Imports ok")
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
