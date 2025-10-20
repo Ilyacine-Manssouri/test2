@@ -2,7 +2,7 @@ openpyxl
 pandas
 pathlib
 os
-matplotlib
+matplotlib.pyplot
 numpy
 subprocess
 json
