@@ -1092,7 +1092,7 @@ if st.session_state.aff_content == True:
         client_data.to_excel(client_path, index=False)
 
         # 4️⃣ Exécuter le script Python externe
-        ai_script_path = "model_ai/ai.py"
+        ai_script_path = "ai.py"
 
         try:
             with st.spinner("Patientez svp..."):
